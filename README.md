@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10, 2018
 
 ### Student Name:  
-(First and Last Name)
+Brandon Lacayo
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We used API key to add description to our application in order to make movie databases.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brandonlacayo.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use API with jQuery.
+2. How to use jQuery to retrieve data from a database.
+3. Used Chrome developer to see the code.
+4. APIs are free to use.
+5. How to use search bar and add variables for the code.
